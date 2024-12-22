@@ -2,3 +2,5 @@ pip install pillow pytesseract pymupdf pandas openpyxl requests
 
 
 https://rtfsprocesados.s3.us-east-1.amazonaws.com/procesados.zip
+
+https://rtfsprocesados.s3.us-east-1.amazonaws.com/BBDD-RTF.xlsx
